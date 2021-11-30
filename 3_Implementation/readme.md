@@ -14,13 +14,13 @@
 - "make" to run the Makefile smoothly.
 
 ## Steps To run Project
-- First clone the repository from the Github.
-- Open the repository in an IDE (Suggesting Visual Studio Code).
-- The next step is to build the project with the help of make command :
--- make all
-- Next step is to run the project with help of make command :
--- make run
-- If you want to run the test cases then run the following command :
--- make test
-- Clean all executable files by the following command :
--- make clean
+1. First clone the repository from the Github.
+2. Open the repository in an IDE (Suggesting Visual Studio Code).
+3. The next step is to build the project with the help of make command :
+   - make all
+4. Next step is to run the project with help of make command :
+   - make run
+5. If you want to run the test cases then run the following command :
+   - make test
+6. Clean all executable files by the following command :
+   - make clean
