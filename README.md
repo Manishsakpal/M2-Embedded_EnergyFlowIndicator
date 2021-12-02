@@ -4,6 +4,7 @@
 
 
 ## CPP Check
+[![Static code Cppcheck](https://github.com/Manishsakpal/M2-Embedded_EnergyFlowIndicator/actions/workflows/cpp_check.yml/badge.svg)](https://github.com/Manishsakpal/M2-Embedded_EnergyFlowIndicator/actions/workflows/cpp_check.yml)
 
 # Code Quality Score
 ![Codacy Badge](https://api.codiga.io/project/30148/score/svg)
