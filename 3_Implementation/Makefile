@@ -3,8 +3,8 @@ PROJ_NAME = EnergyFlowIndicator
 BUILD_DIR = Build
 
 # All Source code files
-SRC = EnergyFlowIndicator.c\
-src/energymeter.c
+SRC = main.c\
+EnergyFlowIndicator.c
 
 # All header file paths
 INC = -I inc
