@@ -1,3 +1,4 @@
+## Behavioral Diagram:-
 - Since we  are measuring room temperature, we don’t really need values beyond hundred degrees (1000mV output of LM35).
 So we can set up maximum value or reference of ADC to 2.5V.
 
