@@ -7,9 +7,11 @@
 ## CPP Check
 
 ## Quality Badge(Codacy)
+[![Codacy Badge](https://api.codiga.io/project/30148/score/svg)
 # Code Quality Score
-
-![image](https://user-images.githubusercontent.com/80235704/144298413-409aef24-f01f-4392-8180-7d02b92d7ca4.png)
+![Code Quality Score](https://api.codiga.io/project/30148/status/svg)
+# Project Images
+![image](https://user-images.githubusercontent.com/86291115/144384813-6fca55ac-2e68-40e0-a876-440c04820720.png)
 
 
 
