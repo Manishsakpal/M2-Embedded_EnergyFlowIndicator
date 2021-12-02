@@ -1,7 +1,6 @@
 # M2-Embedded_EnergyFlowIndicator
 
 ## Linux OS Build
-[![Build](https://github.com/Manishsakpal/M2-Embedded_EnergyFlowIndicator/actions/workflows/Complie.yml/badge.svg)](https://github.com/Manishsakpal/M2-Embedded_EnergyFlowIndicator/actions/workflows/Complie.yml)
 
 ## CPP Check
 [![Static code Cppcheck](https://github.com/Manishsakpal/M2-Embedded_EnergyFlowIndicator/actions/workflows/cpp_check.yml/badge.svg)](https://github.com/Manishsakpal/M2-Embedded_EnergyFlowIndicator/actions/workflows/cpp_check.yml)
