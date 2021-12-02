@@ -5,7 +5,7 @@
 
 ## CPP Check
 
-## Quality Badge(Codacy)
+## Quality Badge(Codiga)
 [![Codacy Badge](https://api.codiga.io/project/30148/score/svg)
 # Code Quality Score
 ![Code Quality Score](https://api.codiga.io/project/30148/status/svg)
